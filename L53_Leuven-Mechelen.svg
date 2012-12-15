@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="L53_Leuven-Mechelen Test2.svg"
+   sodipodi:docname="L53_Leuven-Mechelen.svg"
    inkscape:export-filename="/home/evert/doc/lijnstudie/l53_test.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -220,13 +220,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="362.59641"
-     inkscape:cy="356.41323"
+     inkscape:cx="272.87379"
+     inkscape:cy="553.97217"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1914"
-     inkscape:window-height="1055"
+     inkscape:window-width="1152"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="19"
      inkscape:window-maximized="1"
@@ -248,7 +248,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1015,7 +1015,7 @@
          sodipodi:role="line">Y-Dijlebrug</tspan></text>
     <rect
        y="500.65936"
-       x="51.674553"
+       x="57.674553"
        height="16.909075"
        width="13.52726"
        id="rect10817"
