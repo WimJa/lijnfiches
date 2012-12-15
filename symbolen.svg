@@ -150,9 +150,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568544"
-     inkscape:cx="203.64688"
-     inkscape:cy="109.96929"
+     inkscape:zoom="1"
+     inkscape:cx="163.13597"
+     inkscape:cy="81.897196"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -644,20 +644,6 @@
          d="m 102.29826,675.68137 0,4.94974"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
-    <g
-       id="g10235"
-       transform="translate(-234.63482,101.10277)">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect4022-0"
-         d="m 350.73742,710.36217 17.31456,0 0,74.60096 -17.31456,0 z"
-         style="fill:#808080;fill-opacity:1;stroke:none" />
-    </g>
-    <path
-       style="fill:#808080;fill-opacity:1;stroke:none"
-       d="m 141.05774,811.46494 17.31456,0 0,74.60096 -17.31456,0 z"
-       id="rect4022-8-2"
-       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:9.39839363px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Sans"
@@ -669,20 +655,6 @@
          id="tspan4799-4"
          x="205.87544"
          y="799.25781">Y-Herent</tspan></text>
-    <text
-       transform="matrix(0,-0.94806212,1.0547832,0,0,0)"
-       sodipodi:linespacing="125%"
-       id="text7456-3"
-       y="79.983437"
-       x="-928.69958"
-       style="font-size:12.87287426px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"
-       inkscape:transform-center-x="-133.43096"
-       inkscape:transform-center-y="-47.033719"><tspan
-         id="tspan7460-1"
-         y="79.983437"
-         x="-928.69958"
-         sodipodi:role="line">WIJGMAAL</tspan></text>
     <g
        id="g9633"
        transform="translate(-235.34189,21.102007)">
@@ -803,34 +775,11 @@
          d="m 435,509.09448 0,5"
          style="fill:none;stroke:#000000;stroke-width:0.29055119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.29055119;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect10173"
-       width="13.52726"
-       height="16.909075"
-       x="117.99625"
-       y="867.24042" />
     <path
        inkscape:connector-curvature="0"
        id="path10869"
-       d="m 45.205193,363.46708 0,671.85812"
+       d="m 37.205193,383.46708 0,671.85812"
        style="fill:#000000;stroke:#000000;stroke-width:2.41211152px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <text
-       transform="scale(1.0058876,0.99414686)"
-       sodipodi:linespacing="125%"
-       id="text3470-2-1"
-       y="886.95148"
-       x="90.254295"
-       style="font-size:11.22055435px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         y="886.95148"
-         x="90.254295"
-         id="tspan3472-7-4"
-         sodipodi:role="line">55.3</tspan><tspan
-         id="tspan3474-6-2"
-         y="900.97717"
-         x="90.254295"
-         sodipodi:role="line" /></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -1173,5 +1122,66 @@
        id="path3936-5-0-8-2-1-7-5-6"
        d="m 194.74595,997.2956 0,5.2646 39.36836,0 0,6.5807 0,-3.9484"
        style="fill:none;stroke:#000000;stroke-width:0.41456693;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
+    <g
+       id="g9182"
+       transform="translate(49.449558,355.01325)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4022"
+         d="m 63.68544,586.04845 17.31456,0 0,74.60096 -17.31456,0 z"
+         style="fill:#808080;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4022-8"
+         d="m 88.68544,586.04845 17.31456,0 0,74.60096 -17.31456,0 z"
+         style="fill:#808080;fill-opacity:1;stroke:none" />
+    </g>
+    <text
+       transform="scale(0.94806212,1.0547832)"
+       sodipodi:linespacing="125%"
+       id="text7456"
+       y="920.75989"
+       x="69.76886"
+       style="font-size:12.87287426px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan7460"
+         y="920.75989"
+         x="69.76886"
+         sodipodi:role="line">WIJG-</tspan></text>
+    <rect
+       y="995.67261"
+       x="115.12412"
+       height="16.909075"
+       width="13.52726"
+       id="rect10817"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.29055119;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       transform="scale(1.0058876,0.99414686)"
+       sodipodi:linespacing="125%"
+       id="text3470"
+       y="1017.33"
+       x="80.972816"
+       style="font-size:11.22055435px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="1017.33"
+         x="80.972816"
+         id="tspan3472"
+         sodipodi:role="line">58.9</tspan><tspan
+         id="tspan3474"
+         y="1031.3557"
+         x="80.972816"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.87287426px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="68.932892"
+       y="934.03271"
+       id="text3659"
+       sodipodi:linespacing="125%"
+       transform="scale(0.94806212,1.0547832)"><tspan
+         sodipodi:role="line"
+         x="68.932892"
+         y="934.03271"
+         id="tspan3661">MAAL</tspan></text>
   </g>
 </svg>
