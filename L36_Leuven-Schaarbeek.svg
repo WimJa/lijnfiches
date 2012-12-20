@@ -93,13 +93,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.3569802"
-     inkscape:cx="408.73104"
-     inkscape:cy="657.1006"
+     inkscape:cx="204.92654"
+     inkscape:cy="521.33366"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="878"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -140,7 +140,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3732,30 +3732,27 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Sans"
-       x="413.36063"
-       y="868.9339"
-       id="text4797-12-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4799-5-6"
-         x="413.36063"
-         y="868.9339">L36/3</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Sans"
-       x="414.26895"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Sans"
+       x="412.26895"
        y="838.15814"
        id="text4797-12-0-8"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4799-5-6-1"
-         x="414.26895"
+         x="412.26895"
          y="838.15814">Y-Diegem-</tspan><tspan
          sodipodi:role="line"
-         x="414.26895"
-         y="853.15814"
-         id="tspan10698">West</tspan></text>
+         x="412.26895"
+         y="850.15814"
+         id="tspan10698">West</tspan><tspan
+         sodipodi:role="line"
+         x="412.26895"
+         y="862.15814"
+         id="tspan4329">L36/3</tspan><tspan
+         sodipodi:role="line"
+         x="412.26895"
+         y="874.15814"
+         id="tspan4331">(naar L26)</tspan></text>
     <g
        id="g4757-6-9"
        transform="matrix(0.8,0,0,0.8,417.69979,1.9742499)">
