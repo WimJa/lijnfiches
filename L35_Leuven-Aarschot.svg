@@ -161,15 +161,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0000001"
-     inkscape:cx="262.20471"
-     inkscape:cy="455.62498"
+     inkscape:cx="363.29296"
+     inkscape:cy="477.31236"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="746"
-     inkscape:window-x="-3"
-     inkscape:window-y="5"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -192,7 +192,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -603,17 +603,17 @@
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Sans"
        x="150.23854"
-       y="625.77686"
+       y="627.77686"
        id="text4797-12-4-9-1"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="150.23854"
-         y="625.77686"
+         y="627.77686"
          id="tspan10977-2">L53/1</tspan><tspan
          sodipodi:role="line"
          x="150.23854"
-         y="637.77686"
-         id="tspan6227">L53/2</tspan></text>
+         y="639.77686"
+         id="tspan6227">L35/2</tspan></text>
     <text
        transform="scale(0.98938244,1.0107315)"
        sodipodi:linespacing="125%"
