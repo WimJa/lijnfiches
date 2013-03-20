@@ -6,3 +6,7 @@
 find . -name "*.svg" -print  | sed 's/.*/"&"/' | xargs sed -i 's/font-family:Sans/font-family:Arial/g'
 
 
+# generate pdf's of all svg's :)
+find . -name "*svg" -exec inkscape {} --export-pdf=pdf/{}.pdf \;
+
+
