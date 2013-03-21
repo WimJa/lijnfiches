@@ -16,7 +16,7 @@
    id="svg3528"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="L50-53_Kortrijk_Dendermonde.svg">
+   sodipodi:docname="A4 - L75-50E-53 Kortrijk - Dendermonde.svg">
   <defs
      id="defs3530">
     <radialGradient
@@ -347,14 +347,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="292.37467"
-     inkscape:cy="503.90228"
+     inkscape:zoom="4"
+     inkscape:cx="109.03499"
+     inkscape:cy="20.48724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="878"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -403,7 +403,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1027,17 +1027,17 @@
     <text
        xml:space="preserve"
        style="font-size:12.87287426px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
-       x="8.2894659"
+       x="10.662727"
        y="945.20892"
        id="text14117-0-2"
        sodipodi:linespacing="125%"
        transform="scale(0.94806212,1.0547832)"><tspan
          sodipodi:role="line"
-         x="8.2894659"
+         x="10.662727"
          y="945.20892"
          id="tspan7399-6">KORTRIJK</tspan><tspan
          sodipodi:role="line"
-         x="8.2894659"
+         x="10.662727"
          y="961.29999"
          id="tspan15032-1" /></text>
     <rect
@@ -2571,7 +2571,7 @@
              inkscape:connector-curvature="0" />
           <path
              transform="translate(65.148072,150.29019)"
-             d="m 235.57663,274.27368 a 3.7308517,3.4643621 0 1 1 -7.4617,0 3.7308517,3.4643621 0 1 1 7.4617,0 z"
+             d="m 235.57663,274.27368 c 0,1.91332 -1.67036,3.46436 -3.73085,3.46436 -2.06049,0 -3.73085,-1.55104 -3.73085,-3.46436 0,-1.91331 1.67036,-3.46436 3.73085,-3.46436 2.06049,0 3.73085,1.55105 3.73085,3.46436 z"
              sodipodi:ry="3.4643621"
              sodipodi:rx="3.7308517"
              sodipodi:cy="274.27368"
@@ -2581,7 +2581,7 @@
              sodipodi:type="arc" />
           <path
              transform="translate(60.657592,149.24319)"
-             d="m 239.7406,275.32068 a 3.4043412,3.4043412 0 1 1 -6.80868,0 3.4043412,3.4043412 0 1 1 6.80868,0 z"
+             d="m 239.7406,275.32068 c 0,1.88016 -1.52418,3.40434 -3.40434,3.40434 -1.88017,0 -3.40434,-1.52418 -3.40434,-3.40434 0,-1.88017 1.52417,-3.40434 3.40434,-3.40434 1.88016,0 3.40434,1.52417 3.40434,3.40434 z"
              sodipodi:ry="3.4043412"
              sodipodi:rx="3.4043412"
              sodipodi:cy="275.32068"
@@ -2590,7 +2590,7 @@
              style="fill:none;stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              sodipodi:type="arc" />
           <path
-             d="m 239.7406,275.32068 a 3.4043412,3.4043412 0 1 1 -6.80868,0 3.4043412,3.4043412 0 1 1 6.80868,0 z"
+             d="m 239.7406,275.32068 c 0,1.88016 -1.52418,3.40434 -3.40434,3.40434 -1.88017,0 -3.40434,-1.52418 -3.40434,-3.40434 0,-1.88017 1.52417,-3.40434 3.40434,-3.40434 1.88016,0 3.40434,1.52417 3.40434,3.40434 z"
              sodipodi:ry="3.4043412"
              sodipodi:rx="3.4043412"
              sodipodi:cy="275.32068"
@@ -6389,7 +6389,7 @@
        sodipodi:linespacing="125%"
        transform="translate(0,308.26766)"><tspan
          sodipodi:role="line"
-         id="tspan10778"></tspan></text>
+         id="tspan10778" /></text>
     <path
        inkscape:connector-curvature="0"
        id="path3936-5-0-0-0-9-2-7-4-8-5-3"
@@ -7819,5 +7819,16 @@
        d="m 1024.7527,471.03776 0,4.9497"
        id="path6920-0"
        inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text13446-1"
+       y="1038.1376"
+       x="13.305251"
+       style="font-size:6.86046267px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;font-family:Arial"
+       xml:space="preserve"><tspan
+         id="tspan13448-7"
+         y="1038.1376"
+         x="13.305251"
+         sodipodi:role="line">Afwijkingsfiche: 907: Gent-St-Pieters - Y-Melle: 50 &lt;=&gt; 50E</tspan></text>
   </g>
 </svg>

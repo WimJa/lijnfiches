@@ -16,7 +16,7 @@
    id="svg3528"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="L53-50_Dendermonde-Kortrijk.svg">
+   sodipodi:docname="A4 - L53-50E-75 Dendermonde - Kortrijk.svg">
   <defs
      id="defs3530">
     <radialGradient
@@ -310,14 +310,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="683.14439"
-     inkscape:cy="786.66622"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="162.61422"
+     inkscape:cy="47.979301"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="878"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -8159,5 +8159,16 @@
          x="939.25977"
          sodipodi:role="line"
          id="tspan12728-0">Y-Zandberg</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text13446-1"
+       y="1038.8876"
+       x="15.932888"
+       style="font-size:6.86046267px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;font-family:Arial"
+       xml:space="preserve"><tspan
+         id="tspan13448-7"
+         y="1038.8876"
+         x="15.932888"
+         sodipodi:role="line">Afwijkingsfiche: 907: Y-Melle - Gent-St-Pieters: 50 &lt;=&gt; 50E</tspan></text>
   </g>
 </svg>

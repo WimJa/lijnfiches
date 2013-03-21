@@ -15,7 +15,7 @@
    id="svg3347"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="A4 - L96 BraineLeComte.svg">
+   sodipodi:docname="A4 - L96 BrusselZ - BraineLeComte - BrusselZ.svg">
   <defs
      id="defs3349">
     <linearGradient
@@ -299,16 +299,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4559706"
-     inkscape:cx="674.62986"
-     inkscape:cy="166.93391"
-     inkscape:current-layer="g5318-6"
+     inkscape:cx="253.02687"
+     inkscape:cy="20.352351"
+     inkscape:current-layer="layer1"
      id="namedview3351"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      units="mm"
-     inkscape:window-width="1600"
-     inkscape:window-height="878"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
@@ -6580,7 +6580,7 @@
          id="tspan13448-7-7"
          y="727.14001"
          x="242.55411"
-         sodipodi:role="line">152: Halle - Vorst-Zuid: 96 &lt;=&gt; 96E</tspan></text>
+         sodipodi:role="line">152: Vorst-Zuid - Halle: 96 &lt;=&gt; 96E</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Arial"
@@ -6691,5 +6691,38 @@
            x="33.157223"
            sodipodi:role="line">96</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:6.86046267px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="556.2298"
+       y="727.48462"
+       id="text4031"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="556.2298"
+         y="727.48462"
+         id="tspan4033">Afwijkingsfiche: 151: Vorst-Zuid - FBMZ: 96 &lt;=&gt; 96A &lt;=&gt; 96A+96B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.86046267px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="768.55408"
+       y="727.14001"
+       id="text4035"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="768.55408"
+         y="727.14001"
+         id="tspan4037">152: Halle - Vorst-Zuid: 96 &lt;=&gt; 96E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.86046267px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="887.16809"
+       y="727.14001"
+       id="text4039"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="887.16809"
+         y="727.14001"
+         id="tspan4041">153: Halle - FBMZ: 96 &lt;=&gt; 96N</tspan></text>
   </g>
 </svg>
