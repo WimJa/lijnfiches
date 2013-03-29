@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="L26_Vilvoorde-Halle.svg"
+   sodipodi:docname="A4 - L26 Vilvoorde - Halle.svg"
    inkscape:export-filename="/home/evert/doc/lijnstudie/l53_test.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -178,13 +178,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="389.36971"
-     inkscape:cy="405.50695"
+     inkscape:cx="129.28848"
+     inkscape:cy="415.50695"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1600"
+     inkscape:window-height="878"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -623,7 +623,7 @@
        x="77.236374"
        y="986.90759" />
     <rect
-       y="943.36664"
+       y="927.36664"
        x="76.5"
        height="12.483308"
        width="14.502733"
@@ -632,7 +632,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path3936-4-4"
-       d="m 83.500001,956.36659 0,5.33334 21.999999,0 0,6.66666 0,-3.99999"
+       d="m 83.500001,940.36659 0,5.33334 21.999999,0 0,6.66666 0,-3.99999"
        style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        sodipodi:linespacing="125%"
@@ -971,7 +971,7 @@
          sodipodi:role="line"
          x="45.766491"
          y="617.24451"
-         id="tspan3957-0-6-0">C23</tspan></text>
+         id="tspan3957-0-6-0">PC8</tspan></text>
     <rect
        y="620.02869"
        x="77.000168"
@@ -3795,5 +3795,27 @@
        d="m 359,610.37037 0,98.54903"
        id="path8463"
        inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text10813-8-8"
+       y="827.737"
+       x="16.241388"
+       style="font-size:9.39839363px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial"
+       xml:space="preserve"><tspan
+         y="827.737"
+         x="16.241388"
+         id="tspan10815-3-9"
+         sodipodi:role="line">Moet 4 geven</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10813-8-8-8"
+       y="940.737"
+       x="46.738174"
+       style="font-size:9.39839363px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial"
+       xml:space="preserve"><tspan
+         y="940.737"
+         x="46.738174"
+         id="tspan10815-3-9-4"
+         sodipodi:role="line">GrGH</tspan></text>
   </g>
 </svg>
