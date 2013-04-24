@@ -347,9 +347,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="109.03499"
-     inkscape:cy="20.48724"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="442.05039"
+     inkscape:cy="447.77681"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6918,11 +6918,6 @@
          y="423.33649"
          x="831.94794"
          sodipodi:role="line" /></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 865.5,326.40704 0,5.33334 22,0 0,6.66666 0,-3.99999"
-       id="path6318-8"
-       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:11.22055435px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Arial"
