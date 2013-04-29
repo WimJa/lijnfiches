@@ -682,8 +682,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="528.11862"
-     inkscape:cy="372.04724"
+     inkscape:cx="562.15406"
+     inkscape:cy="401.28614"
      inkscape:current-layer="layer1"
      id="namedview3351"
      showgrid="false"
@@ -5701,7 +5701,7 @@
            id="tspan7490"
            y="260.38504"
            x="312.9194"
-           sodipodi:role="line">Lier - FBC: 15 + 27 &lt;=&gt; 15 + 15/1 + 27A =&gt; 13 + 27</tspan></text>
+           sodipodi:role="line">Lier - Berchem: 15 + 27 &lt;=&gt; 15 + 15/1 + 27A =&gt; 13 + 27</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4007-3-9"
@@ -5727,7 +5727,7 @@
            id="tspan7488"
            sodipodi:role="line"
            x="312.9194"
-           y="231.07841">FBC - FN: 27 &lt;=&gt; 25 &lt;=&gt; 59/1</tspan></text>
+           y="231.07841">Berchem - FN: 27 &lt;=&gt; 25 &lt;=&gt; 59/1</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5537-5"
@@ -5738,7 +5738,7 @@
            id="tspan5539-5"
            y="239.67987"
            x="312.9194"
-           sodipodi:role="line">FBC - FN: -1  &lt;=&gt; -2  &lt;=&gt;  +1</tspan></text>
+           sodipodi:role="line">Berchem - FN: -1  &lt;=&gt; -2  &lt;=&gt;  +1</tspan></text>
       <rect
          style="fill:none;stroke:#008000;stroke-width:0.53503937;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect3893"
@@ -5816,7 +5816,7 @@
            y="130.85509"
            x="837.5813"
            sodipodi:role="line"
-           id="tspan7535">FBC - LIER: 27 + 15 &lt;=&gt; 27A + 15/1 + 15 =&gt; 27 + 13</tspan></text>
+           id="tspan7535">Berchem - LIER: 27 + 15 &lt;=&gt; 27A + 15/1 + 15 =&gt; 27 + 13</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4007-3"
@@ -5845,7 +5845,7 @@
              id="tspan7529"
              y="692.90204"
              x="804.58002"
-             sodipodi:role="line">FN - FBC: 27 &lt;=&gt; 25 &lt;=&gt; 59/1</tspan></text>
+             sodipodi:role="line">FN - Berchem: 27 &lt;=&gt; 25 &lt;=&gt; 59/1</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:6.86046267px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;font-family:Arial"

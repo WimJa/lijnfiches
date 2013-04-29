@@ -319,14 +319,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="951.31248"
-     inkscape:cy="110.59671"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="525.97136"
+     inkscape:cy="399.86241"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="878"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -6668,5 +6668,41 @@
          id="tspan10325-4-8"
          x="758.41388"
          y="502.71271">X</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8441-7-1"
+       y="689.29822"
+       x="19.252771"
+       style="font-size:11px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         y="689.29822"
+         x="19.252771"
+         sodipodi:role="line"
+         id="tspan4060">vòòr</tspan><tspan
+         y="703.04822"
+         x="19.252771"
+         sodipodi:role="line"
+         id="tspan4067">bordje!!</tspan></text>
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path7181-0"
+       d="m 100.29,694.86216 0,3 14,-5 -14,-4 0,3 -20.580005,-0.044 0,2.784 z"
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.17611086px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
+       x="245.5515"
+       y="499.79651"
+       id="text5544-99-9-5-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5546-2-5-0-7-4"
+         x="245.5515"
+         y="499.79651">L14 slecht</tspan><tspan
+         sodipodi:role="line"
+         x="245.5515"
+         y="513.54651"
+         id="tspan4090">zichtbaar!!</tspan></text>
   </g>
 </svg>
