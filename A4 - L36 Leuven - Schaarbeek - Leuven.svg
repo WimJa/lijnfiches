@@ -338,8 +338,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4559706"
-     inkscape:cx="904.29112"
-     inkscape:cy="593.59277"
+     inkscape:cx="269.10436"
+     inkscape:cy="626.16645"
      inkscape:current-layer="layer1"
      id="namedview3351"
      showgrid="false"
@@ -6215,7 +6215,7 @@
          sodipodi:role="line"
          x="562.79321"
          y="79.658195"
-         id="tspan4439">Y-Diegem oost</tspan></text>
+         id="tspan4439">Y-Diegem West</tspan></text>
     <g
        id="g5350-7-4-3"
        transform="matrix(0.76,0,0,0.76,940.60151,-81.244298)">
@@ -6543,7 +6543,7 @@
          sodipodi:role="line"
          x="689.60162"
          y="649.2746"
-         id="tspan4439-7">Y-Diegem oost</tspan></text>
+         id="tspan4439-7">Y-Diegem Oost</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text13446-1"
@@ -6961,5 +6961,16 @@
          y="249.58313"
          style="font-size:8px"
          id="tspan4641-18">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.92847347px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Arial"
+       x="65.19722"
+       y="90.063766"
+       id="text4797-1-6-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4799-4-1-7"
+         x="65.19722"
+         y="90.063766">Y-Herent</tspan></text>
   </g>
 </svg>
